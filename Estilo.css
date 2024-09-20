@@ -1,0 +1,39 @@
+body{
+    font-family: Arial,sans-serif;
+    text-align: center;
+    background-color:#00bfff
+  }
+  
+  .button-container{
+    margin-top:20px;
+  }
+  
+  .button{
+    display:inline-block;
+    padding:10px 20px;
+    color:#00BFFF;
+    text-decoration:none;
+    border-radius: 5px;
+    margin: 0 10px;
+    transition:background-color 0.3s;
+  }
+  
+  .france{
+    background-color:#28a745;
+  }
+  
+  .italy{
+    background-color:#3437df;
+  }
+  
+  .japan{
+    background-color: #dc3545;
+  }
+  
+  .brazil{
+    background-color:#ffc107;
+  }
+  
+  .button:hover{
+    opacity:0.8;
+  }
